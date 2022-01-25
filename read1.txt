@@ -1,0 +1,14 @@
+ Volume in drive C is Windows
+ Volume Serial Number is C823-5BE5
+
+ Directory of C:\Users\Spandana\Desktop\java
+
+25-01-2022  04:25 PM    <DIR>          .
+25-01-2022  04:25 PM    <DIR>          ..
+25-01-2022  02:46 PM               483 hellowworld.class
+25-01-2022  02:13 PM               182 hellowworld.java
+25-01-2022  04:18 PM               465 read.txt
+25-01-2022  04:25 PM                 0 read1.txt
+25-01-2022  04:19 PM               514 text.txt
+               5 File(s)          1,644 bytes
+               2 Dir(s)  47,676,928,000 bytes free
